@@ -1,0 +1,4 @@
+comandos ejecutados
+ - composer require laravel/ui
+ - composer require nesbot/carbon 
+
